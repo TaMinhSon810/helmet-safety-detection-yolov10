@@ -1,6 +1,6 @@
 # Helmet Safety Detection using YOLOv10
 
-This project demonstrates how to use **YOLOv10** for detecting helmets in images.<br>The project uses **Streamlit** for the web interface and **OpenCV** for image processing.
+This project demonstrates how to use **YOLOv10** for detecting helmets in images. The project uses **Streamlit** for the web interface and **OpenCV** for image processing.
 
 
 
